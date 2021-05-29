@@ -1,5 +1,6 @@
-mudança 01
+
 ENTENDENDO O CÓDIGO:
+
 PÁGINA 1
 Começamos usando um pouco de CSS interno pois o intuito inicial era fazer duas páginas distintas. Abrimos o <style> para anunciar o começo do CSS e apartir daí incluimos dados referente a  formatação da páginas de acordo com o objetivo traçado:
 
@@ -15,7 +16,7 @@ Passamos então para o corpo do site, no inicio a formatação foi marcada por l
 
 Usamos também a tag &nbsp para espaçar  os nomes dos integrantes do grupo, e fechando a página, incluimos um hiperlink de acesso a página 2, determinando tipo de fonte e mensagem a ser exibida:
 
-
+PÁGINA 2
 Nessa página também utilizamos o CSS interno, definindo a  formatação do conteúdo:
 
 porém nessa preferimos juntar os titulo e defini-los:
@@ -24,7 +25,7 @@ porém nessa preferimos juntar os titulo e defini-los:
 Incluimos materias publicadas, relevantes ao tema abordado, retiradas de páginas de noticias, incluindo hiperlinks onde o usuário fosse transferido para a máteria original, tendo também outras materias, inclusas em hiperlinks no corpo da matéria:
 
 
-E finalizamos mudança 2 citando referências utilizadas na elaboração do texto, com uso de listas
+E finalizamos citando referências utilizadas na elaboração do texto, com uso de listas
 
 REFERÊNCIAS BIBLIOGRÁFICAS
 Magalhães, Lana. Poluição. Disponível
