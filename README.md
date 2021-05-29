@@ -2,32 +2,25 @@
 ENTENDENDO O CÓDIGO:
 
 PÁGINA 1
-Começamos usando um pouco de CSS interno pois o intuito inicial era fazer duas páginas distintas. Abrimos o <style> para anunciar o começo do CSS e apartir daí incluimos dados referente a  formatação da páginas de acordo com o objetivo traçado:
 
+- Começamos usando um pouco de CSS interno pois o intuito inicial era fazer duas páginas distintas. Abrimos o <style> para anunciar o começo do CSS e apartir daí incluimos dados referente a  formatação da páginas de acordo com o objetivo traçado;
+- Definimos individualmente como gostariamos que as imagens fossem visualizadas pelo usuário (seus tamanhos, orientação e margens);
+- Formatamos os titulos e paragrafos
+- Após fecharmos a tag <style> passamos a incluir o conteudo direto do nosso site, começando pelo menu usando a tag <nav> (optamos pelo menu horizontal, usamos a troca de cor ao passar o mouse e incluimos uma imagem de cabeçalho) , em nosso menu incluimos a opção"lupa" que pertence a tag <form>  e nela incluimos opções de pré digitação referente aos temas abordados, também determinamos tags formatadas anteriormente com o o uso CSS;
+- Passamos então para o corpo do site, no inicio a formatação foi marcada por listas e por isso utilizamos as tags <ul> e <li> e seguimos marcando paragrafos e definindo títulos e seus tamanhos, incluindo no corpo as informações pesquisadas pelo grupo;
+- Usamos também a tag &nbsp para espaçar  os nomes dos integrantes do grupo, e fechando a página, incluimos um hiperlink de acesso a página 2, determinando tipo de fonte e mensagem a ser exibida.
 
-Definimos individualmente como gostariamos que as imagens fossem visualizadas pelo usuário (seus tamanhos, orientação e margens):
-
-Formatamos os titulos e paragrafos:
-
-
-Após fecharmos a tag <style> passamos a incluir o conteudo direto do nosso site, começando pelo menu usando a tag <nav> (optamos pelo menu horizontal, usamos a troca de cor ao passar o mouse e incluimos uma imagem de cabeçalho) , em nosso menu incluimos a opção"lupa" que pertence a tag <form>  e nela incluimos opções de pré digitação referente aos temas abordados, também determinamos tags formatadas anteriormente com o o uso CSS :
-
-Passamos então para o corpo do site, no inicio a formatação foi marcada por listas e por isso utilizamos as tags <ul> e <li> e seguimos marcando paragrafos e definindo títulos e seus tamanhos, incluindo no corpo as informações pesquisadas pelo grupo:
-
-Usamos também a tag &nbsp para espaçar  os nomes dos integrantes do grupo, e fechando a página, incluimos um hiperlink de acesso a página 2, determinando tipo de fonte e mensagem a ser exibida:
 
 PÁGINA 2
-Nessa página também utilizamos o CSS interno, definindo a  formatação do conteúdo:
 
-porém nessa preferimos juntar os titulo e defini-los:
-
-
-Incluimos materias publicadas, relevantes ao tema abordado, retiradas de páginas de noticias, incluindo hiperlinks onde o usuário fosse transferido para a máteria original, tendo também outras materias, inclusas em hiperlinks no corpo da matéria:
+- Nessa página também utilizamos o CSS interno, definindo a  formatação do conteúdo porém nessa preferimos juntar os titulo e defini-los;
+- Incluimos materias publicadas, relevantes ao tema abordado, retiradas de páginas de noticias, incluindo hiperlinks onde o usuário fosse transferido para a máteria original, tendo também outras materias, inclusas em hiperlinks no corpo da matéria;
+- Finalizamos citando referências utilizadas na elaboração do texto, com uso de listas.
 
 
-E finalizamos citando referências utilizadas na elaboração do texto, com uso de listas
 
-REFERÊNCIAS BIBLIOGRÁFICAS
+REFERÊNCIAS
+ 
 Magalhães, Lana. Poluição. Disponível
 em: <https://www.todamateria.com.br/poluicao/> Acesso em: 05 de Abril de 2019.
 Autor Desconhecido, Equipe eCycle. Poluição da água: tipos, causas e
