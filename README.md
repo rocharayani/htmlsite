@@ -7,7 +7,7 @@ PÁGINA 1
 - Definimos individualmente como gostariamos que as imagens fossem visualizadas pelo usuário (seus tamanhos, orientação e margens);
 - Formatamos os titulos e paragrafos
 - Após fecharmos a tag <style> passamos a incluir o conteudo direto do nosso site, começando pelo menu usando a tag <nav> (optamos pelo menu horizontal, usamos a troca de cor ao passar o mouse e incluimos uma imagem de cabeçalho), em nosso menu incluimos a opção "lupa" que pertence a tag <form> e nela incluimos opções de pré digitação referente aos temas abordados, também determinamos tags formatadas anteriormente com o o uso CSS;
-- Passamos então para o corpo do site, no inicio a formatação foi marcada por listas e por isso utilizamos as tags "<ul> e <li>", e seguimos marcando paragrafos e definindo títulos e seus tamanhos, incluindo no corpo as informações pesquisadas pelo grupo;
+- Passamos então para o corpo do site, no inicio a formatação foi marcada por listas e por isso utilizamos as tags "< ul >" e "< li >", e seguimos marcando paragrafos e definindo títulos e seus tamanhos, incluindo no corpo as informações pesquisadas pelo grupo;
 - Usamos também a tag &nbsp para espaçar  os nomes dos integrantes do grupo, e fechando a página, incluimos um hiperlink de acesso a página 2, determinando tipo de fonte e mensagem a ser exibida.
 
 
